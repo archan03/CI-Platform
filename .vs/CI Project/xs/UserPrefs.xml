@@ -1,20 +1,29 @@
 ﻿<Properties StartupConfiguration="{AD48E725-0F7D-481B-91FC-A9C9FEA5672D}|Default" GitUserInfo="UsingGIT">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.CI_220Project PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="CI Project/wwwroot/css/reset.css">
+    <Files>
+      <File FileName="CI Project/Controllers/HomeController.cs" Line="20" Column="1" />
+      <File FileName="CI Project/wwwroot/css/registration.css" Line="48" Column="14" />
+      <File FileName="CI Project/wwwroot/css/reset.css" Line="62" Column="19" />
+      <File FileName="CI Project/Views/Shared/_Layout.cshtml" Line="27" Column="58" />
+      <File FileName="CI Project/wwwroot/css/forgot_password.css" Line="157" Column="37" />
+      <File FileName="CI Project/wwwroot/css/login.css" Line="26" Column="2" />
+      <File FileName="CI Project/Views/Home/reset.cshtml" Line="112" Column="19" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CI Project" expanded="True">
+          <Node name="CI Project" expanded="True" selected="True">
             <Node name="CI Project" expanded="True">
-              <Node name="Views" expanded="True">
-                <Node name="Home" expanded="True">
-                  <Node name="Index.cshtml" selected="True" />
-                </Node>
-              </Node>
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Views" expanded="True" />
+              <Node name="wwwroot" expanded="True" />
             </Node>
           </Node>
         </State>
